@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Stream Gaming Dashboard
+</name>
+</assembly>
+<members>
+<member name="T:Stream_Gaming_Dashboard.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources._016947000_1521545040_pubg_mobile_02">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources._20181123164913_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources._3egYgJJ_390x400_1x_0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources._81TFHy_pjNL__SY500_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources._91B0yP60HRL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.dota_2_russia">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.EbOYhC1UMAECbHa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.fallout_76_wastelanders_cover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.Fortnite_blog_stream_the_fortnite_world_cup_finals_in_fortnite_SteamPiPWorldCup_Screenshot1_2559x1379_3efa27c18696831217def95a3a77bf12526b2d69">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.gta_v_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.LARGEIMAGE_1817799">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.logout_rounded_up_200px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.microphone_200px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.microphone_200px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.minecraft_sword_200px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.minecraft_sword_200px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.minecraft_sword_200px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.notification_200px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.photo_1481214110143_ed630356e1bb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.photo_1494354145959_25cb82edf23d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.photo_1504703395950_b89145a5425b">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.photo_1506794778202_cad84cf45f1d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.photo_1507003211169_0a1dd7228f2d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.photo_1512353087810_25dfcd100962">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.Screenshot_76">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.search_200px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.settings_200px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.slider_200px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stream_Gaming_Dashboard.My.Resources.Resources.sort_up_200px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
